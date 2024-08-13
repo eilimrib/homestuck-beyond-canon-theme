@@ -3,7 +3,11 @@
   "displayName": "Homestuck: Beyond Canon",
   "description": "Simple themes based around Homestuck: Beyond Canon.",
   "publisher": "alphyssh",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eilimrib/homestuck-beyond-canon-theme"
+  },
   "icon": "images/dirk.png",
   "engines": {
     "vscode": "^1.54.0"
