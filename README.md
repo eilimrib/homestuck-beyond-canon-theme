@@ -1,2 +1,2 @@
-# homestuck-beyond-canon-theme
-Simple VSCode theme based on Homestuck: Beyond CAnon
+# Homestuck: Beyond Canon
+Somewhere, in the distant reaches of space...
