@@ -116,7 +116,7 @@
         "name": "Text",
         "scope": "variable.parameter.function",
         "settings": {
-          "foreground": "#000000"
+          "foreground": "#ffffff"
         }
       },
       {
